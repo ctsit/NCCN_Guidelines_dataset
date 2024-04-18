@@ -15,12 +15,12 @@ of Health.
 
 # Authors: 
 
-Luisel Ricks-Santi, UF
-Karen Hicklin, UF
-Lakeshia Cousin, UF
-Christopher P. Barnes (cpb@ufl.edu corresponding author), UF
-Melissa Moreno, UF
-Samantha Emerson, UF
-Emily Olsen, UF
-Sage Lucas, UF
+- Luisel Ricks-Santi, UF
+- Karen Hicklin, UF
+- Lakeshia Cousin, UF
+- Christopher P. Barnes (cpb@ufl.edu corresponding author), UF
+- Melissa Moreno, UF
+- Samantha Emerson, UF
+- Emily Olsen, UF
+- Sage Lucas, UF
                                                                  
